@@ -45,17 +45,25 @@ After we make sure that the model has best performance in model_analysys.py and 
   <img src="https://github.com/PiotrWNowak/LHCb_track_classifier/raw/master/images/Figure_6.png">
 </p>
 
+### Integration with LHCb software
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-parameter | new NN | old NN | BBDT
+<p align="left">
+  <img src="https://github.com/PiotrWNowak/LHCb_track_classifier/raw/master/images/1.png">
+</p>
+ | new NN | old NN | BBDT
 :---: | :---: | :---: | :---:
-UT+T | 73.8%  | 75.0%
-UT+T>5GeV | 80.3% | 80.5% | 81.4%
+reconstruction efficiency | 73.8% | 74.1% | 75.0%
+reconstruction efficiency (p>5GeV) | 80.3% | 80.5% | 81.4%
 ghost rate | 22.5% | 23.2% | 30.3%
+
+<p align="left">
+  <img src="https://github.com/PiotrWNowak/LHCb_track_classifier/raw/master/images/2.png">
+</p>
+ | new NN | old NN | BBDT
+:---: | :---: | :---: | :---:
+reconstruction efficiency | 72.7% | 73.1% | 74.1%
+reconstruction efficiency (p>5GeV) | 79.5% | 79.9% | 80.8%
+ghost rate | 23.6% | 24.2% | 31.3%
 
 ## Author
 
