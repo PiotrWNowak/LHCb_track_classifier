@@ -50,7 +50,8 @@ After we make sure that the model has best performance in model_analysys.py and 
 <p align="left">
   <img src="https://github.com/PiotrWNowak/LHCb_track_classifier/raw/master/images/1.png">
 </p>
- | new NN | old NN | BBDT
+
+\ | new NN | old NN | BBDT
 :---: | :---: | :---: | :---:
 reconstruction efficiency | 73.8% | 74.1% | 75.0%
 reconstruction efficiency (p>5GeV) | 80.3% | 80.5% | 81.4%
@@ -59,7 +60,8 @@ ghost rate | 22.5% | 23.2% | 30.3%
 <p align="left">
   <img src="https://github.com/PiotrWNowak/LHCb_track_classifier/raw/master/images/2.png">
 </p>
- | new NN | old NN | BBDT
+
+\ | new NN | old NN | BBDT
 :---: | :---: | :---: | :---:
 reconstruction efficiency | 72.7% | 73.1% | 74.1%
 reconstruction efficiency (p>5GeV) | 79.5% | 79.9% | 80.8%
