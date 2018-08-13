@@ -51,10 +51,9 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-
 parameter | new NN | old NN | BBDT
 :---: | :---: | :---: | :---:
-UT+T | 73.8% | 74.1% | 75.0%
+UT+T | 73.8%  | 75.0%
 UT+T>5GeV | 80.3% | 80.5% | 81.4%
 ghost rate | 22.5% | 23.2% | 30.3%
 
