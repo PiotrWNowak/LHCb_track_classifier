@@ -1,6 +1,7 @@
 # Using genetic algorithm for neural network classifier for LHCb experiment
 
 ## After use generic algorithm for feature selection
+Feature selection is done in repository https://github.com/PiotrWNowak/Genetic_algorithm_feature_selection .
 
 In model_training.py we run model for whole set of events (1.7*10^6).
 <p align="center">
